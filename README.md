@@ -1,2 +1,2 @@
 # wild-track
-This app tracks wild life
+This app tracks wild life.
